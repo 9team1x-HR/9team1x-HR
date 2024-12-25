@@ -67,4 +67,6 @@ A comprehensive guide to understanding web security vulnerabilities like **XSS**
 
 ---
 
-![Tech GIF](https://media.giphy.com/media/xTkcEQACH24SMPxIQg/giphy.gif)
+### Here's a Tech GIF of Hacker Coding! 💻🔓
+
+![Hacker Coding GIF](https://media.giphy.com/media/f7CjRghQxeF0c/giphy.gif)
