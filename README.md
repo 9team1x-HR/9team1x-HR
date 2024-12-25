@@ -1,4 +1,4 @@
-# Hi, I'm 9team1x-HR 👨‍💻🚀
+# Hi, I'm Md:HR 👨‍💻🚀
 ### A Passionate Developer | Ethical Hacker | Open-Source Contributor
 
 Welcome to my world of **technology, cybersecurity**, and **open-source**! I'm always pushing boundaries and learning new things to stay at the cutting edge. Join me as I explore the digital frontier!
@@ -76,5 +76,24 @@ I am an **ethical hacker**. The knowledge I share is intended for learning and i
 ![Hacker GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qXC/giphy.gif)
 
 ---
+### Coding Matrix Code Simulation:
+```javascript
+// The code streams like the Matrix digital rain...
+const matrixRain = () => {
+  const chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
+  let code = '';
+  
+  for (let i = 0; i < 10; i++) {
+    code += chars.charAt(Math.floor(Math.random() * chars.length));
+  }
+
+  return code;
+}
+
+setInterval(() => {
+  console.clear();
+  console.log(matrixRain());
+}, 100);
+
 
 ### Thank you for visiting my profile! Stay tuned for more updates and open-source contributions! ✌️
