@@ -76,6 +76,8 @@ I am an **ethical hacker**. The knowledge I share is intended for learning and i
 ![Hacker GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qXC/giphy.gif)
 
 ---
+![Matrix Code Rain](https://media.giphy.com/media/26tPoyDhjiJ2i3pNa/giphy.gif)
+
 ### Coding Matrix Code Simulation:
 ```javascript
 // The code streams like the Matrix digital rain...
