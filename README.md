@@ -80,6 +80,8 @@ I am an **ethical hacker**. The knowledge I share is intended for learning and i
 
 [![Matrix Code](https://img.shields.io/badge/Live%20Matrix%20Code-click%20here-blue?logo=github&logoColor=white)](https://hr-bot1.github.io/matrix/)
 
+![9team1x-HR's GitHub stats](https://github-readme-stats.vercel.app/api?username=9team1x-HR&show_icons=true&count_private=true)
+
 
 
 
