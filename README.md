@@ -17,6 +17,7 @@ Welcome to my world of **technology, cybersecurity**, and **open-source**! I'm a
 ## 🏆 My Skills & Technologies
 
 ![Python Badge](https://img.shields.io/badge/Python-3.9-blue?logo=python&logoColor=yellow) 
+![HTML Badge](https://img.shields.io/badge/HTML-5-orange?logo=html5&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=black)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-11-blue?logo=c%2B%2B&logoColor=white)
 ![Kali Linux Badge](https://img.shields.io/badge/Kali%20Linux-black?logo=kali&logoColor=white)
