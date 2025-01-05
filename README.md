@@ -42,7 +42,7 @@ A practical guide for learning web security, focusing on vulnerabilities like **
 
 [![Telegram](https://img.shields.io/badge/Telegram-@universe_teach-blue?logo=telegram&logoColor=white)](https://t.me/universe_teach)
 [![Facebook](https://img.shields.io/badge/Facebook-@md.hr.o.o.2024-blue?logo=facebook&logoColor=white)](https://www.facebook.com/md.hr.o.o.2024)
-[![Website](https://img.shields.io/badge/Website-HR%20Bot%20Info-blue?logo=github&logoColor=white)](https://my-info-opal.vercel.app/)
+[![Website](https://img.shields.io/badge/Website-HR%20%20Info-blue?logo=github&logoColor=white)](https://my-info-opal.vercel.app/)
 
 ---
 
