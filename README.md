@@ -82,7 +82,7 @@ I am an **ethical hacker**. The knowledge I share is intended for learning and i
 [![Matrix Code](https://img.shields.io/badge/Live%20Matrix%20Code-click%20here-blue?logo=github&logoColor=white)](https://hr-bot1.github.io/matrix/)
 
 
-
+![Video Preview](https://github.com/Hr-bot1/Video_1/blob/main/images/video-preview.gif)
 ### Coding Matrix Code Simulation:
 ```javascript
 // The code streams like the Matrix digital rain...
@@ -104,3 +104,5 @@ setInterval(() => {
 
 
 ### Thank you for visiting my profile! Stay tuned for more updates and open-source contributions! ✌️
+
+
