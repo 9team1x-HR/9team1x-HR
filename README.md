@@ -21,7 +21,7 @@
 
 <p align="center">
     
-    <img width="30%" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
+   <img width="30%" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
   </a>
 </p>
 
@@ -76,6 +76,7 @@
 </table>
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 ## 🌐 Let's Connect!
+
 [![Telegram](https://img.shields.io/badge/Telegram-@universe_teach-blue?logo=telegram&logoColor=white)](https://t.me/universe_teach)
 [![Facebook](https://img.shields.io/badge/Facebook-@md.hr.o.o.2024-blue?logo=facebook&logoColor=white)](https://www.facebook.com/md.hr.o.o.2024)
 [![Website](https://img.shields.io/badge/Website-Md%20HR`s%20Info-blue?logo=github&logoColor=white)](https://my-info-opal.vercel.app/)
