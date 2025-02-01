@@ -1,5 +1,5 @@
-
-<img width=100% title="Termux Hacking " alt="Termux Hacking" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=TERMUX-🔰- HACKING&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
+ 
+<img width=100% title="Termux Hacking " alt="Termux Hacking" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=191970&text=TERMUX-💭-HACKING&textBg=false&fontColor=FF7F50&section=footer&fontAlign=50&fontAlignY=66&reversal=true"/>
 
 <table border="0">
  <tr>
