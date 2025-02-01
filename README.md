@@ -10,7 +10,7 @@
       <br>
       <img width="280" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=9team1x-HR&data=followers,repositories,stars,commits&theme=viridescent"/>
     <td>
-      <img alt="gif" src="./core/Programme.gif">
+      <img width="80" alt="gif" src="./core/Programme.gif">
    </td>  
  </tr>  
 </table>
@@ -75,10 +75,10 @@
 
 <</tr>
 </table>
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
-## 🌐 Let's Connect!
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p> <br>
+😩 🌐 Let's Connect!
 
-[![Telegram](https://img.shields.io/badge/Telegram-@universe_teach-blue?logo=telegram&logoColor=white)](https://t.me/universe_teach)
+[![Telegram](https://img.shields.io/badge/Telegram-Termux_Hacking-blue?logo=telegram&logoColor=white)](https://t.me/Termux_Team_BD)
 [![Facebook](https://img.shields.io/badge/Facebook-@md.hr.o.o.2024-blue?logo=facebook&logoColor=white)](https://www.facebook.com/md.hr.o.o.2024)
 [![Website](https://img.shields.io/badge/Website-Md%20HR`s%20Info-blue?logo=github&logoColor=white)](https://my-info-opal.vercel.app/)
 
