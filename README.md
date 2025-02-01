@@ -5,7 +5,7 @@
  <tr>
     <td>
       <br>
-     <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?ont=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+ᴍᴅ:ʜʀ:› __//😘😕😈;"/>
+     <p align="center"><img width="500"src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+There!+%F0%9F%91%8B+;I'm+%E1%B4%8D%E1%B4%85%3A%CA%9C%CA%80%3A%E2%80%BA+__%2F%2F%F0%9F%98%98%F0%9F%98%95%F0%9F%98%88"/>
      <img width="150" align="center" src="https://komarev.com/ghpvc/?username=9team1x-HR&label=Profile%20Visitor&color=071A2C&style=for-the-badge" alt="9team1x-HR"/>
       <br>
       <img width="280" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=9team1x-HR&data=followers,repositories,stars,commits&theme=viridescent"/>
