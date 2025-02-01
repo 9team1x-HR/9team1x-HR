@@ -10,7 +10,7 @@
       <br>
       <img width="280" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=9team1x-HR&data=followers,repositories,stars,commits&theme=viridescent"/>
     <td>
-      <img alt="gif" src="./core/Programmer.gif">
+      <img alt="gif" src="./core/Programme.gif">
    </td>  
  </tr>  
 </table>
